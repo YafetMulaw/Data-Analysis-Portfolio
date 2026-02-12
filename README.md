@@ -17,9 +17,18 @@ This repository contains selected projects that demonstrate my ability to clean 
 - Used exploratory data analysis and visualizations
 - Identified key factors associated with survival outcomes
 
+### 3. Marketing Campaign Performance Analysis
+- Analyzed digital marketing campaign data to evaluate reach, engagement, efficiency, and cost metrics
+- Segmented by audience, age group, and geography (focus on UAE student targeting)
+- Identified high-performing campaigns and provided optimization recommendations
+
 ## Tools & Skills
-- Python
-- Pandas, NumPy
-- Matplotlib
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
 - Jupyter Notebook
 - Descriptive & Exploratory Data Analysis
+- Excel (pivot tables, charts, campaign metrics)
+
+Yafet Mulaw
+Addis Ababa, Ethiopia  
+Email: yafet.mulaw.21@gmail.com  
+[Yafet Mulaw on LinkedIn](https://www.linkedin.com/in/yafet-mulaw/)
