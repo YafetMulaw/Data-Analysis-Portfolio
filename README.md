@@ -12,15 +12,15 @@ This repository contains selected projects that demonstrate my ability to clean 
 - Applied descriptive statistics and data visualization techniques
 - Focused on clear interpretation of results
 
-### 2. Titanic Survival Analysis
-- Analyzed passenger data to understand survival patterns
-- Used exploratory data analysis and visualizations
-- Identified key factors associated with survival outcomes
-
-### 3. Marketing Campaign Performance Analysis
+### 2. Marketing Campaign Performance Analysis
 - Analyzed digital marketing campaign data to evaluate reach, engagement, efficiency, and cost metrics
 - Segmented by audience, age group, and geography (focus on UAE student targeting)
 - Identified high-performing campaigns and provided optimization recommendations
+
+### 3. Alcohol Consumption Analysis
+- Analyzed global alcohol consumption data across 193 countries using beer, spirit, and wine serving metrics
+- Evaluated consumption patterns and total pure alcohol intake per country
+- Identified countries with highest and lowest alcohol consumption and compared beverage preferences globally
 
 ## Tools & Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy)
